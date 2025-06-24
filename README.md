@@ -196,6 +196,4 @@ npm run dev
 
 ## 👨‍💻 Desarrollador
 
-**Luis Eduardo Torres Gutiérrez**
-- 🌐 [GitHub](https://github.com/lalo2911)
-- 💼 [LinkedIn](https://linkedin.com/in/ltorresdev)
+**Luis Eduardo Torres Gutiérrez** - [GitHub](https://github.com/lalo2911) | [LinkedIn](https://linkedin.com/in/ltorresdev)
