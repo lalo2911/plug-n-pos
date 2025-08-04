@@ -4,6 +4,11 @@
 
 Un sistema POS completo desarrollado con tecnologías modernas, optimizado para panaderías, cafeterías, negocios de alimentos y cualquier comercio que requiera un sistema de ventas intuitivo y eficiente.
 
+## 🌐 Demo en Vivo
+
+[Pulsa aquí para ingresar a la demo](https://plug-n-pos-frontend.vercel.app) - Desplegada en Render y Vercel
+> (Puede tardar un poco en responder el backend cuando se ingresa por primera vez, cosas del plan gratis de Render . _.)
+
 ## 🌟 Características Destacadas
 
 ### 🚀 **Tecnología Moderna**
